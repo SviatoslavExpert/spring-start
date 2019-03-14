@@ -1,0 +1,3 @@
+com\granovskiy\configuration\ApplicationConfiguration.class
+com\granovskiy\configuration\WebInitializer.class
+com\granovskiy\controller\HomeController.class
